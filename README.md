@@ -1,4 +1,5 @@
-# 💫About Me :
+<h1 align="center">Hi 👋, I'm Shridhar Shikalgar </h1>
+
 - 🔭 I'm Currently Working On "Web Development" 
 - 🌱 I'm Currently Learning "NodeJs and ReactJs"
 - 👯 I'm Looking To Collaborate On"Web Development"
