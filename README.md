@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shridhar Shikalgar </h1>
+<h1 align="left">Hi👋, I'm Shridhar Shikalgar </h1>
 
 - 🔭 I'm Currently Working On "Web Development" 
 - 🌱 I'm Currently Learning "NodeJs and ReactJs"
