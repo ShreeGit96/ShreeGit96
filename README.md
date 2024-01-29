@@ -1,12 +1,12 @@
 <h1 align="left">Hi👋, I'm Shridhar Shikalgar </h1>
 
 - 🔭 I'm Front-End Developer 
-- 🌱 I'm Currently Learning ReactJs" almost completed
+- 🌱 I'm Currently Working on Powerapps 
 - 👯 I'm Looking To Collaborate On"Front-end Development"
-- 🤔 I'm Looking For Job in "Front-end Web Developement"
-- 💬 Ask Me About Anything ! I Am Happy To Help.
-- 😄 Pronouns : 'He/Him/His'
-- ⚡ Fun Fact : I love to cook. My signature dish is homemade chicken and chicken roll.
+- 🤔 I'm Working As a Powerapps Developer
+- 💬 Ask Me About Anything! I Am Happy To Help.
+- 😄 Pronouns: 'He/Him/His'
+- ⚡ Fun Fact: I love to cook. My signature dish is homemade chicken and chicken roll.
 
 
 ## 🌐Socials
